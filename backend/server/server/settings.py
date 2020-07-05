@@ -39,6 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     #apps
     'apps.endpoints',
+    'apps.ml',
+    #need this lol
     'rest_framework',
 ]
 
